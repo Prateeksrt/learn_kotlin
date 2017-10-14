@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Rahul",
+      "rollNumber": 4001,
+      "marks": {
+        "English": 98,
+        "Hindi": 89
+      }
+    },
+    {
+      "name": "Prateek",
+      "rollNumber": 4001,
+      "marks": {
+        "English": 76,
+        "Hindi": 67
+      }
+    },
+    {
+      "name": "Prabhu",
+      "rollNumber": 4003,
+      "marks": {
+        "English": 88,
+        "Hindi": 91
+      }
+    },
+    {
+      "name": "Abdul",
+      "rollNumber": 4004,
+      "marks": {
+        "English": 99,
+        "Hindi": 80
+      }
+    }
+  ],
+  "teacher": [
+    {
+      "name": "Vanya",
+      "subject": "English"
+    },
+    {
+      "name": "Sunil",
+      "subject": "Hindi"
+    }
+  ]
+}
